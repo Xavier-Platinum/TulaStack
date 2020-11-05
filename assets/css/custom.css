@@ -1,0 +1,24 @@
+.register {
+    background-color: rgba(40, 60, 96, 0.371);
+    color: black;
+}
+
+.register label {
+    color: rgb(40, 61, 96);
+}
+
+.register button {
+    border-radius: 20px;
+    width: 12%;
+    padding: 6px 12px;
+    background-color: rgb(40, 60, 96);
+    /* color: #fff; */
+}
+
+.register button:hover {
+    background-color: rgba(40, 60, 96, 0.885);
+}
+
+.register button a {
+    color: white;
+}
