@@ -9,7 +9,6 @@
 # General
 --------------------------------------------------------------*/
 
-@import "./custom.css";
 
 body {
   font-family: "Open Sans", sans-serif;
@@ -642,6 +641,28 @@ section {
 /*--------------------------------------------------------------
 # Why Us
 --------------------------------------------------------------*/
+
+/* button */
+
+.register button:hover {
+  background-color: rgba(40, 60, 96, 0.885);
+  color: white;
+}
+
+.register label {
+  color: rgba(40, 60, 96, 0.885);
+}
+
+.cta button:hover {
+  background-color: rgba(40, 60, 96, 0.885);
+  color: white;
+}
+
+.cta label {
+  color: rgba(40, 60, 96, 0.885);
+}
+
+
 
 /*--------------------------------------------------------------
 # Skills
